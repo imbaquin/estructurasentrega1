@@ -1,0 +1,10 @@
+Reporte de estudiantes
+-----------------------
+----------------------
+Datos del alumno: 
+Nombre: SEBASTIAN
+Apellido: 19292828
+Cedula: 19292828
+Semestre: 5
+Correo: IMBAQUINSEBASTIAN@GMAIL.CON
+Celular: 3157420368
